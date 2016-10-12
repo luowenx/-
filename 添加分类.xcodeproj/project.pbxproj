@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2B0AD73B1DAE0D630068CB71 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B0AD73A1DAE0D630068CB71 /* main.m */; };
 		2B0AD73E1DAE0D630068CB71 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B0AD73D1DAE0D630068CB71 /* AppDelegate.m */; };
-		2B0AD7411DAE0D630068CB71 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B0AD7401DAE0D630068CB71 /* ViewController.m */; };
 		2B0AD7441DAE0D630068CB71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B0AD7421DAE0D630068CB71 /* Main.storyboard */; };
 		2B0AD7461DAE0D630068CB71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B0AD7451DAE0D630068CB71 /* Assets.xcassets */; };
 		2B0AD7491DAE0D630068CB71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B0AD7471DAE0D630068CB71 /* LaunchScreen.storyboard */; };
